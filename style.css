@@ -1,0 +1,47 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, "Microsoft YaHei", sans-serif;
+    background: #f7f7fb;
+}
+
+.box {
+    width: 90%;
+    max-width: 420px;
+    margin: 80px auto;
+    background: white;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 12px 0;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 16px;
+    padding: 16px;
+    background: #f2f2ff;
+    border-radius: 12px;
+}
+
+.ad-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    padding: 10px;
+}
