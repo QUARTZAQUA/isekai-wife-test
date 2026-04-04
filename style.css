@@ -44,4 +44,16 @@ button {
     border-top: 1px solid #ddd;
     text-align: center;
     padding: 10px;
+    z-index: 999;
+}
+
+#ad-slot {
+    width: 950px;
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.ad-inline {
+    margin-top: 20px;
+    text-align: center;
 }

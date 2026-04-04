@@ -28,4 +28,5 @@ document.getElementById("testBtn").addEventListener("click", function () {
 
     const index = hashString(userId) % wives.length;
     result.textContent = "你的异世界老婆是：" + wives[index];
-});// JavaScript source code
+});
+
